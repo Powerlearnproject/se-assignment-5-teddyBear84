@@ -1,0 +1,43 @@
+Questions:
+
+1. Installation of VS Code:
+  Firstly visit the visual code website for the download of installation file (https://code.visualstudio.com). Depending on the oeprating system one is using or preference. My installation is based on the windows 11 64 bit, my download is for 64 version of windows. after the download install the executable file and follow the steps click next until it finishes. 
+
+2. First-time Setup:
+   - Fist tim eruuning visual code , one needs to set up the environment depending on the languanges  and extensions that will hence development. The most critical application pertaining to the plp course are the python extension , prettier, git extension to allow git commands.
+
+3. User Interface Overview:
+  
+      Activity Bar  is located on the far left side of the window. It contains icons for different activities such as Explorer for exploring the structure of the working projects , Search for searching for contents , Source Control for access the contents of the version controll applications and getting sources , and Extensions which are extra applications .
+
+      The Side Bar is positioned next to the Activity Bar and provides access to different views and panels that assist in coding and navigation. It typically includes views such as Explorer (file navigation), Search (global search and replace), Source Control (git integration), and Extensions (managing VS Code extensions). Additional panels like Debug (debugging sessions), Problems (linting and error messages), and Outline (code outline) can also be accessed here.
+
+       Editor Groups are the central area of the VS Code window where code files and text documents are edited. VS Code supports multiple editor groups, which are horizontal or vertical splits within the editor area. Each editor group can contain one or more tabs representing open files. Developers can easily switch between different files and arrange them according to their workflow by dragging tabs between editor groups or creating new groups
+
+       The Status Bar is located at the bottom of the VS Code window.  It provides information about the current project and editor state, such as the current branch in Git, the number of errors or warnings in the file, and the indentation settings. It also includes features like the language mode selector, line and column numbers, and the encoding format of the file. The Status Bar can be customized with additional information through extensions.
+
+4. Command Palette It provides a searchable list of all available commands in VS Code, including those from installed xtensions.    This     makes it easy to discover and execute commands without needing to remember specific keyboard shortcuts or navigate through menus. It helps users to excute commands effciently by typing fewer words to filter and located prefered commands. It provides list of extension commands , allowing users to leverage additional functionalities offered by extensions directly from the Command Palette
+  
+5. Extensions in VS Code are essential in providng additional feature to outofbox visual code, the extensions are found on the list of items on the sider bar. The users can find and install them by searching  in the extensions search bar. Then install from the list 
+   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+
+6. Integrated Terminal:
+   - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?. 
+
+7. File and Folder Management:
+   - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+
+8. Settings and Preferences:
+   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+
+9. Debugging in VS Code:
+   - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
+
+10. Using Source Control:
+    - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+
+ Submission Guidelines:
+- Your answers should be well-structured, concise, and to the point.
+- Provide screenshots or step-by-step instructions where applicable.
+- Cite any references or sources you use in your answers.
+- Submit your completed assignment by 1st July 
